@@ -58,4 +58,3 @@ This project is licensed under the GNUv3 - see the [LICENSE](LICENSE) file for d
 ## Support
 
 - 🐛 [Issues](https://github.com/ovrlord-app/ovrlord/issues)
-- 💬 [Discussions](https://github.com/ovrlord-app/ovrlord/discussions)
