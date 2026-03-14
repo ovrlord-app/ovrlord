@@ -37,6 +37,11 @@ The goal is not to replace the *Arr ecosystem overnight, but to offer a simpler,
 ## Guides & Documentation
 
 - [High Level Feature Requirements](docs/REQUIREMENTS.md)
+- [Contributing Guide](docs/CONTRIBUTING.md)
+- [Developing Guide](docs/DEVELOPING.md)
+- [Testing Guide](docs/TESTING.md)
+- [Process Flows](docs/PROCESS_FLOWS.md)
+- [Security Policy](docs/SECURITY.md)
 
 ## 🤖 AI-Free by Design
 
