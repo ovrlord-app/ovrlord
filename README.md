@@ -1,5 +1,8 @@
 # Ovrlord - Coming soon...
 
+<p align="center">
+  <img src="docs/img/main_preview.png" alt="Ovrlord Preview" width="600"/>
+</p>
 
 Ovrlord is a monolithic personal media library system that manages collections of digital media assets such as **Movies** and **TV Series**.
 
