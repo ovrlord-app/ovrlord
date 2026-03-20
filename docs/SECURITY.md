@@ -17,4 +17,4 @@ severity of the issue.
 ## Vulnerability Scanning
 
 Ovrlord runs automated vulnerability scanning in GitHub Actions workflows for all pull requests and commits to the `main` branch.
-The current toolset includes `trivvy` and `govulncheck` though are subject to change at any time.
+The current toolset includes `govulncheck` though is subject to change at any time.
